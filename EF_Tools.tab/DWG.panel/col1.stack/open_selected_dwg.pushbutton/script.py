@@ -142,4 +142,3 @@ class MyWindow(WPFWindow):
 
 if __name__ == '__main__':
     MyWindow("Script.xaml")
-# AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
